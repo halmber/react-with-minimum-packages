@@ -4,7 +4,8 @@
 
 ---
 
-npm install react react-dom --save-dev
-npm install @babel/core @babel/preset-react babel-loader html-webpack-plugin webpack webpack-cli webpack-dev-server --save-dev
+`npm install react react-dom --save-dev`
+
+`npm install @babel/core @babel/preset-react babel-loader html-webpack-plugin webpack webpack-cli webpack-dev-server --save-dev`
 
 ---
